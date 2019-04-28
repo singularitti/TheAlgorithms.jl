@@ -1,0 +1,10 @@
+name = "TheAlgorithms"
+uuid = "fa8de0ba-5648-52fc-a4cb-ce6bdeb23c0a"
+authors = ["Qi Zhang <singularitti@outlook.com>"]
+version = "0.1.0"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
